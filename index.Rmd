@@ -3,6 +3,7 @@ title: "My awesome website"
 output: 
   html_document:
     toc: true
+    code_folding: hide
     toc_float: true
     self_contained: no
 ---
@@ -38,7 +39,19 @@ Here's my tree, lili:
 
 [About me](about.html)
 
+## Quarterly Results {.tabset}
 
+### By Product
+
+This is my first tab and i can do stuff
+
+### By Region
+
+this is my second tab and it does other stuff
+
+# This is a new section
+
+and it's really great
 
 
 
